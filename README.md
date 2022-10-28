@@ -1,7 +1,7 @@
 Hi 👋 My name is Mateus
 ==========================
 
-Full Stack Backend Developer
+Full-Stack Software Developer
 -----------------------------
 
 I'm a 24 years old developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are the data science and back-end development.
